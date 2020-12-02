@@ -6,7 +6,7 @@ Jenis Tabungan adalah fitur untuk menambahkan jenis tabungan.
 Langkah - langkah untuk menambahkan data jenis tabungan :
 1. Pilih menu Pendataan - Jenis Tabungan
 
-    ![](../images/1_Menu-Pendataan.png)
+    <img src="../images/1_Menu-Pendataan.png">
 
 2. Klik tombol Add di pojok kanan atas tabel.
 
