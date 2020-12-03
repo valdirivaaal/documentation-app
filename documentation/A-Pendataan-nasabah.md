@@ -10,7 +10,7 @@ Langkah - langkah untuk menambahkan data nasabah :
 
     <img src="../images/1_D_Tampilan_Nasabah.png" alt="drawing" width="550" />
 
-3. Isilah data nasabah sesuai dengan form yang disediakan.
+3. Isilah data nasabah sesuai pada form yang disediakan.
 
     <img src="../images/1_D_Tampilan_Add_Nasabah.png" alt="drawing" width="550" />
 
